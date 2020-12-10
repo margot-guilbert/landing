@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@500&family=Montserrat:wght@300&family=Roboto:wght@300&family=Texturina:wght@200&display=swap")
+
+@import url(components/container.css);
+@import url(components/card.css);
+@import url(components/button.css);
+@import url(components/banner.css);
+
+body{
+	font-family: 'Lora', serif;
+	font-size: 20px;
+	margin: 0px;
+}
+
+h1,h2{
+	font-family: 'Roboto', serif;
+	font-weight: bolder;
+}
+
+h3{
+	font-weight: lighter;
+	font-family: 'Lora', serif;
+}
+
+a{
+	text-decoration: none;
+	font-family: 'Texturina', sans-serif;
+}
